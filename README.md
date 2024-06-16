@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Gabs191
-- 👀 I’m interested in JavaScript 
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I’m @grafaloski
+- 👀 I’m interested in  
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +55 (49)99901-3428
+- 📫 How to reach me 
 
 <!---
 Gabs191/Gabs191 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
